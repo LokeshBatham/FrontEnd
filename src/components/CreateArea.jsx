@@ -69,6 +69,8 @@ function CreateArea(props) {
     })
     .catch((err) => {
       console.log("err",err);
+      console.log("err",err);
+      console.log("err",err);
     })
 
     // fetch('https://942f-202-142-122-242.ngrok-free.app/addnote', {
